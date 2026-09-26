@@ -1,0 +1,41 @@
+{
+  "id": 78,
+  "category": "pc-utility",
+  "slug": "audio-latency-notebook",
+  "target": "Windows audio",
+  "appid": null,
+  "summaryRu": "Журнал конфигураций аудиоустройств и наблюдений о задержке.",
+  "features": [
+    "Device format inventory",
+    "Buffer experiment journal",
+    "Dropout observation log"
+  ],
+  "title": "AudioTiming — Windows audio — Soundstage",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "AudioTiming",
+  "repositoryName": "audiotiming-audio-latency-notebook-soundstage",
+  "githubTopics": [
+    "windows-audio",
+    "audio-latency",
+    "audio-devices",
+    "buffer-notes",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "soundstage"
+}
